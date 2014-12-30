@@ -1,11 +1,11 @@
 {
   "database" : {
     "dbtype" : "PostgreSQL",
-    "dbname" : "ice479_db_4145",
-    "username" : "ice479_user_4145",
+    "dbname" : "",
+    "username" : "",
     "host" : "iservdb.cloudopenlab.org.tw",
     "encoding" : "utf8",
-    "password" : "uCTou5Nx",
+    "password" : "",
     "port": 5432
    }
 }
